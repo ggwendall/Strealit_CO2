@@ -44,13 +44,13 @@ Ce projet vise à développer des modèles de prédiction des émissions de CO2 
 
 3. Exécuter le notebook "Projet_Prediction_CO2.ipynb" pour suivre le processus de prédiction des émissions de CO2.
 
+4. Exécuter le fichier python "Main.py" pour ouvrir la page streamlit pour configuré les spécifisité du véhicule.
    ```
    streamlit run Main.py
    ```
-4. Accédez à l'application dans votre navigateur en visitant l'URL http://localhost:8501 .   
+5. Accédez à l'application dans votre navigateur en visitant l'URL http://localhost:8501 .   
 ![image](https://github.com/ggwendall/ggwendall/assets/48108275/edb15cbf-f45a-472c-b934-44762886a231)
 
-4. Exécuter le fichier python "Main.py" pour ouvrir la page streamlit pour configuré les spécifisité du véhicule.
 ## Auteur
 
 Quenet Gwendal
